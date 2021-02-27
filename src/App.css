@@ -150,16 +150,13 @@ p {
     /* Project Page */
 
 .projects-container{
-    float: right;
-    padding: 20px;
+    padding-left: 250px;
+    padding-top: 50px;
     width: 70vw;
     height: 100vh;
-    display: flex;
-    flex-direction: column;
     align-items: center;
-    justify-content: space-evenly;
-    overflow: scroll;
-    background-color: rgb(236, 235, 235);
+    overflow-y: scroll;
+   
 }
 
 .nav-bar{
@@ -380,14 +377,13 @@ header {
 /* Project Card */
 
 
-
 .img-wrapper{
-    
 	width: 600px;
 	height: 400px;
 	position: relative;
 	overflow: hidden;
     box-shadow: 6px 5px 4px 1px #8f8f8f;
+    margin-bottom: 50px;
 }
 
 .img-wrapper:before{
