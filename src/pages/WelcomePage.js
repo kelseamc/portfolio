@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom';
 import linkedin from '../assets/linkedin-icon-header.png'
 import github from '../assets/github-icon-header.png'
-import myPhoto from '../assets/my-photo.jpeg'
+import myPhoto from '../assets/my-photo.png'
 
 function WelcomePage() {
     return (
