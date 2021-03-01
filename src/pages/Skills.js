@@ -59,6 +59,7 @@ function Skills() {
                       <text>
                         GitHub | VScode | AWS Amplify | AWS Route 53  | Heroku | REST APIs 
                      </text>
+                     
                 </div>
               
                
