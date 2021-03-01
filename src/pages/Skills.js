@@ -5,7 +5,11 @@ function Skills() {
        <div className="skill-page">
            <div className="skill-container">
                <div className="languages">
-                  <h1>Technologies   <span className="title-line"></span></h1>
+                  <h1>   
+                        <span className="summary-red-line"></span>
+                        <span className="summary-red-dot"></span> 
+                        Technologies
+                    </h1>
                 </div>
                   <div className="language-icons">
                       <div className="icon-box">
@@ -45,12 +49,16 @@ function Skills() {
                       </div>
                </div>
                <div className="languages">
-                  <h1>Toolbox  <span className="title-line"></span></h1>
+                  <h1> 
+                    <span className="summary-red-line"></span>
+                    <span className="summary-red-dot"></span>
+                    Toolbox 
+                 </h1>
                 </div>
                 <div className="toolbox">
-                      <p>
+                      <text>
                         GitHub | VScode | AWS Amplify | AWS Route 53  | Heroku | REST APIs 
-                     </p>
+                     </text>
                 </div>
               
                
