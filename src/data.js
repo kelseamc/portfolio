@@ -8,7 +8,7 @@ export const projectArray = [
         frontend: "https://github.com/kelseamc/piggybank-frontend",
         img: piggy,
         demo: "https://www.pigbnkapp.com/",
-        video: "",
+        video: "https://www.youtube.com/watch?v=Paclfg5HssA&feature=youtu.be",
         description: "A app to help organize and visualize your savings!",
         languages: "React.js | Redux.js | Ruby on Rails | PostgreSQL"
     },
@@ -17,7 +17,7 @@ export const projectArray = [
         frontend: "https://github.com/kelseamc/orderupfrontend",
         img: orderup,
         demo: "",
-        video: "",
+        video: "https://www.youtube.com/watch?v=VxOquYUB3gM&feature=youtu.be",
         description: "An online restaurant ordering application",
         languages: "React.js | Ruby on Rails | PostgreSQL"
     },
@@ -26,7 +26,7 @@ export const projectArray = [
         frontend: "https://github.com/kelseamc/hotWatch",
         img: hotWatch,
         demo: "https://master.d2tojll6k4pc03.amplifyapp.com/",
-        video: "",
+        video: "https://www.youtube.com/watch?v=LLsXTinO0NE&feature=youtu.be",
         description: "See what movies are trending and their details",
         languages: "React.js | The MovieDB API"
     },
