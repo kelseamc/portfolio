@@ -14,7 +14,7 @@ function ProjectCard({project}) {
                     </p>
                     </h2>
 			    <ul>
-				<li><a href="https://github.com/kelseamc/piggybank-frontend"><i className="fab fa-github"></i></a></li>
+				<li><a href={project.frontend}><i className="fab fa-github"></i></a></li>
 				<li><a href={project.video}><i className="fab fa-youtube"></i></a></li>
 				<li><a href={project.demo}><i class="fas fa-desktop"></i></a></li>
 			    </ul>
