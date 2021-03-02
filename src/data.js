@@ -1,5 +1,6 @@
 import piggy from './assets/piggy-screenshot.png'
 import orderup from './assets/order-up-screenshot.png'
+import hotWatch from './assets/hot-watch.png'
 
 export const projectArray = [
     {
@@ -15,6 +16,13 @@ export const projectArray = [
         img: orderup,
         description: "An online restaurant ordering application",
         languages: "React.js | Ruby on Rails | PostgreSQL"
+    },
+    {
+        name: "HotWatch",
+        frontend: "https://github.com/kelseamc/hotWatch",
+        img: hotWatch,
+        description: "See what movies are trending and their details",
+        languages: "React.js | The MovieDB API"
     },
 
 ]
