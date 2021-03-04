@@ -10,7 +10,7 @@ function Nav() {
     return (
         <div className="nav-bar">
             <div className="nav-top">
-                <h2 >Kelsea McAlliser</h2>
+                <h2 >Kelsea McAllister</h2>
                 <br />
                 <br />
                 <p>Fullstack Developer</p><br />
