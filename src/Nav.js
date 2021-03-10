@@ -17,7 +17,7 @@ function Nav() {
             </div>
             <div className="nav-icons">
                 <a href="https://github.com/kelseamc" target="_blank" ><i className="fab fa-github-square"></i></a>
-                <a href="https://www.linkedin.com/in/kelsea-mcallister-900479205/" target="_blank"><i className="fab fa-linkedin"></i></a>
+                <a href="https://www.linkedin.com/in/kelsea-mcallister/" target="_blank"><i className="fab fa-linkedin"></i></a>
                 <a href="https://kelsea-mcall.medium.com/" target="_blank"><i className="fab fab fa-medium"></i></a>
                 
             </div>

@@ -16,7 +16,7 @@ function WelcomePage() {
                         <h5>Fullstack Developer</h5>                   
                     </div>
                     <div id="social-media-icons-header">
-                      <a href="https://www.linkedin.com/in/kelsea-mcallister-900479205/" target="_blank"> <img src={linkedin} alt="Linked In icon" /></a>
+                      <a href="https://www.linkedin.com/in/kelsea-mcallister/" target="_blank"> <img src={linkedin} alt="Linked In icon" /></a>
                       <a href="https://github.com/kelseamc" target="_blank" ><img src={github} alt="Github icon" /></a>
                     </div>
                     <img className="my-photo" src={myPhoto} alt="Kelsea"></img>
