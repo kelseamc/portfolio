@@ -1,7 +1,7 @@
 import React from 'react'
 import { projectArray } from '../data.js'
 import ProjectCard from '../ProjectCard'
-import Nav from '../Nav'
+
 
 function Projects() {
 

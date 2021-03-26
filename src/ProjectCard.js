@@ -14,9 +14,9 @@ function ProjectCard({project}) {
                     </p>
                     </h2>
 			    <ul>
-				<li><a href={project.frontend} target="_blank"><i className="fab fa-github"></i></a></li>
-				<li><a href={project.video} target="_blank"><i className="fab fa-youtube"></i></a></li>
-				<li><a href={project.demo} target="_blank"><i class="fas fa-desktop"></i></a></li>
+				<li><a href={project.frontend} target="_blank" rel="noreferrer noopener"><i className="fab fa-github"></i></a></li>
+				<li><a href={project.video} target="_blank" rel="noreferrer noopener"><i className="fab fa-youtube"></i></a></li>
+				<li><a href={project.demo} target="_blank" rel="noreferrer noopener"><i class="fas fa-desktop"></i></a></li>
 			    </ul>
 		    </div>
         </div>

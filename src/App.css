@@ -5,6 +5,8 @@ body {
     
 }
 
+
+
                                      /* Header Styling */
 
 header {
@@ -166,6 +168,7 @@ p {
     width: 25vw;
     height: 100vh;
     margin-right: 0px;
+    margin-bottom: 0px;
     position: relative;
 }
 
@@ -508,4 +511,84 @@ header {
 {
 	color: #fff;
 	background: rgba(255,255,255,0);
+}
+
+
+.contact{
+    width: 75vw;
+    height: 100vh;
+    margin-left: auto;
+}
+.form-title{
+    font-family: 'Yeseva One', cursive;
+    color: #ff484be3;
+
+}
+.form-container{
+    text-align: center;
+    background-color: whitesmoke;
+    display: flex;
+    margin: auto;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    justify-content: center;
+    flex-direction: column;
+    width: 600px;
+    height: 100vh;
+}
+
+.form-input{
+    border: none;
+    outline: none;
+    margin-top: 30px;
+    text-align: center;
+    background-color: rgba(201, 201, 201, 0.562);
+    border-radius: 25px;
+    height: 50px;
+    width: 80%;
+    background: #e6e6e6;
+    font-family: 'Yeseva One', cursive;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #666666;
+    overflow: visible;
+}
+
+#message{
+    height: 200px;
+}
+
+.form-button{
+    margin-top: 30px;
+    border: none;
+    font-family: 'Yeseva One', cursive;
+    font-size: 15px;
+    color:   #ff484be3;
+    background-color: whitesmoke;
+}
+
+.form-button:hover{
+    font-size: 20px;
+}
+
+
+.footer{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #FF484C;
+    font-size: 15px;
+    background-color: transparent;
+    height: 30px;
+    margin-top: 0px;
+    padding-top: 10px;
+    bottom: 0;
+
+}
+
+.footer h5{
+    margin-top: 5px;
+}
+
+.nav-footer{
+    margin-top: 100px;
 }

@@ -16,15 +16,15 @@ function WelcomePage() {
                         <h5>Fullstack Developer</h5>                   
                     </div>
                     <div id="social-media-icons-header">
-                      <a href="https://www.linkedin.com/in/kelsea-mcallister/" target="_blank"> <img src={linkedin} alt="Linked In icon" /></a>
-                      <a href="https://github.com/kelseamc" target="_blank" ><img src={github} alt="Github icon" /></a>
+                      <a href="https://www.linkedin.com/in/kelsea-mcallister/" target="_blank" rel="noreferrer noopener"> <img src={linkedin} alt="Linked In icon" /></a>
+                      <a href="https://github.com/kelseamc" target="_blank" rel="noreferrer noopener"><img src={github} alt="Github icon" /></a>
                     </div>
                     <img className="my-photo" src={myPhoto} alt="Kelsea"></img>
                 </div>
                 <div id="header-nav">
                         <Link className="nav-link" to="/projects">Projects</Link> 
                         <Link className="nav-link" to="/skills">Skills</Link>
-                        <Link className="nav-link">Resume</Link>
+                        <a className="nav-link" target="_blank" rel="noreferrer noopener"href="https://drive.google.com/file/d/1sIncjud3dEDcXfKbipIqPyoLaoh13UmJ/view?usp=sharing">Resume</a>
                 </div>
            </div>
        </header>
